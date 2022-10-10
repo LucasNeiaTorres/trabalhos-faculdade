@@ -1,0 +1,71 @@
+i 10
+ 
+operacao: i 
+nova chave: 10 
+imprimir em ordem: 
+10, 0 
+altura da arvore: 1 
+i 20
+ 
+operacao: i 
+nova chave: 20 
+imprimir em ordem: 
+10, 0 
+20, 1 
+altura da arvore: 2 
+i 30
+ 
+operacao: i 
+nova chave: 30 
+imprimir em ordem: 
+10, 1 
+20, 0 
+30, 1 
+altura da arvore: 2 
+i 40
+ 
+operacao: i 
+nova chave: 40 
+imprimir em ordem: 
+10, 2 
+20, 0 
+30, 1 
+40, 2 
+altura da arvore: 3 
+i 50
+ 
+operacao: i 
+nova chave: 50 
+imprimir em ordem: 
+10, 2 
+20, 0 
+30, 2 
+40, 1 
+50, 2 
+altura da arvore: 3 
+i 45
+ 
+operacao: i 
+nova chave: 45 
+imprimir em ordem: 
+10, 2 
+20, 1 
+30, 2 
+40, 0 
+45, 2 
+50, 1 
+altura da arvore: 3 
+i 48
+ 
+operacao: i 
+nova chave: 48 
+imprimir em ordem: 
+10, 2 
+20, 1 
+30, 2 
+40, 0 
+45, 2 
+48, 1 
+50, 2 
+altura da arvore: 3 
+ 
